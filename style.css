@@ -285,12 +285,12 @@ hr{
     display: flex;
     max-width: 80%;
     margin: auto;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     align-items: center;
 }
 .card{
-    margin-bottom: 15px;
+    margin: 20px;
     background-color: #d3d0ff;
     padding-top: 10px;
     max-width: 250px;
